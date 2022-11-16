@@ -6,4 +6,4 @@ Weather App using Angular and Weather bit api
 3. Additional information about wind speed, humidity and climate also shown.
 
 ## Demo
-
+![App Screenshot](https://github.com/adithyanair2001/Angular-Weather-App/blob/main/Animation.gif)
